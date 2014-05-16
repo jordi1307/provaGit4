@@ -1,0 +1,9 @@
+Index: ../provaGit4/prova.py
+===================================================================
+--- ../provaGit4/prova.py	(date 1400224569000)
++++ ../provaGit4/prova.py	(date 1400224569000)
+@@ -1,4 +0,0 @@
+-__author__ = 'jor'
+-def setmesag(m):
+-    print(m)
+-
